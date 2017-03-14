@@ -20,8 +20,9 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <p>Test for wordpress theme scaffolding</p>
-        <p>Test branch wordpress scaffolding</p>
+
+        <p>Hello world! This is em Scaffolding with bootstrap4 and sass.</p>
+
 
 
 
