@@ -21,6 +21,7 @@
 
         <!-- Add your site or application content here -->
         <p>Test for wordpress theme scaffolding</p>
+        <p>Test branch wordpress scaffolding</p>
 
 
 
