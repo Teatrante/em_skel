@@ -1,2 +1,2 @@
 # em_skel
-Skafolding for projects with Bootstrap4 and Sass
+Scaffolding for projects with Bootstrap4 and Sass
